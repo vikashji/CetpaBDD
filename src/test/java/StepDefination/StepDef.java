@@ -44,7 +44,7 @@ public class StepDef {
 
 	}
 
-	@When("Click on Login")
+	@When("Click on the Login")
 	public void click_on_login() {
 		l.clickOnLoginButton();
 	}
